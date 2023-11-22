@@ -10,9 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^1.6.2",
+    "clsx": "^2.0.0",
+    "cn": "^0.1.1",
     "pannellum-react": "^1.2.4",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.19.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.37",
